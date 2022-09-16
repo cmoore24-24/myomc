@@ -1,0 +1,11 @@
+#ignore CMSSW
+CMSSW_*/
+
+#ignore thread
+thread*/
+
+#ignore root files
+*.root
+
+#ignore cfg files
+*cfg.py
